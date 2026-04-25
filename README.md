@@ -25,3 +25,4 @@ Data Cleaning & Transformatio
 This project demonstrates how data visualization can turn complex datasets into simple, actionable insights. It reflects my ability to analyze data and present it in a clear, interactive, and visually appealing way.
 
 6.Screenshot
+https://github.com/truptiofficial06/DMart-Dashboard/blob/main/Screenshot%202026-04-25%20145250.png
